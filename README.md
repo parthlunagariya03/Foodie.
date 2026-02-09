@@ -36,7 +36,7 @@ Foodie/
 
 🌐 Live Demo
 
-🔗 
+🔗 https://parthlunagariya03.github.io/Foodie./
 
 📌 Future Enhancements
 
